@@ -1,7 +1,3 @@
-# 💫 About Me:
-🌱 I’m currently studying BS Computer Science <br>👯 I’m looking to collaborate<br>💬 Ask me about<br>⚡ Fun fact
-
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alcarazpaul4@gmail.com) 
 
